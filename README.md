@@ -1,2 +1,2 @@
 # klimetzc-cv
- My portfolio web site
+Portfolio web site
